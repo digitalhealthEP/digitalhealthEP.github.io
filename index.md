@@ -12,7 +12,7 @@ Digital Health EP is ...
 
 ## Mockup
 
-<img src="/images/mockup.png" width="200" height="100">
+<img src="/images/mockup.png">
 
 ## Team
 
