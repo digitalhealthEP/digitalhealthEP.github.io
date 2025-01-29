@@ -3,11 +3,16 @@
 ## Table of contents
 
 * [Overview](#overview)
+* [Mockup](#mockup)
 * [Team](#team)
 
 ## Overview
 
 Digital Health EP is ...
+
+## Mockup
+
+<img src="/images/mockup.png" width="200" height="100">
 
 ## Team
 
